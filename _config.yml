@@ -198,3 +198,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      categories: [ TOP_CATEGORIE, SUB_CATEGORIE ]
+      tags: [ TAG1, TAG2 ]
+    posts:
+      categories: [ TOP_CATEGORIE, SUB_CATEGORIE ]
+      tags: [ TAG1, TAG2 ]

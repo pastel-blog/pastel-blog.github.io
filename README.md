@@ -50,3 +50,5 @@ This work is published under [MIT][mit] License.
   - [Live Demo](https://chirpy.cotes.page/), [Live Demo repository](https://github.com/cotes2020/chirpy-demo)
   - [Docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 - [Jekyll](https://jekyllrb.com/)
+  - [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
+- [Favicon & Avatar Image](https://pixabay.com/ko/photos/%ed%81%ac%eb%a0%88%ec%9a%a9-%ed%8c%8c%ec%8a%a4%ed%85%94-%ed%99%94%eb%a0%a4%ed%95%9c-%ec%83%89%ec%83%81-2162075/)
